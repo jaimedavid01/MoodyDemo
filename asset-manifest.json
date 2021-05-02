@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Moody/static/css/main.6d1a28ab.chunk.css",
-    "main.js": "/Moody/static/js/main.b16cabc5.chunk.js",
-    "main.js.map": "/Moody/static/js/main.b16cabc5.chunk.js.map",
+    "main.js": "/Moody/static/js/main.95969387.chunk.js",
+    "main.js.map": "/Moody/static/js/main.95969387.chunk.js.map",
     "runtime-main.js": "/Moody/static/js/runtime-main.707439f2.js",
     "runtime-main.js.map": "/Moody/static/js/runtime-main.707439f2.js.map",
     "static/js/2.6667f742.chunk.js": "/Moody/static/js/2.6667f742.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.707439f2.js",
     "static/js/2.6667f742.chunk.js",
     "static/css/main.6d1a28ab.chunk.css",
-    "static/js/main.b16cabc5.chunk.js"
+    "static/js/main.95969387.chunk.js"
   ]
 }
