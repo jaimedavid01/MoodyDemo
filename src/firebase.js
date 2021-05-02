@@ -3,14 +3,14 @@ import firebase from 'firebase';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA3nYabVjc4fTbO0C0OBRqltkJkrhDwIdk",
-    authDomain: "moody-bfd57.firebaseapp.com",
-    projectId: "moody-bfd57",
-    storageBucket: "moody-bfd57.appspot.com",
-    messagingSenderId: "837399005684",
-    appId: "1:837399005684:web:7964a82d178e921810d1a1",
-    measurementId: "G-01KFT1FFBC"
-  };
+  apiKey: "AIzaSyCT0kxJFVMfV02FxdtRSr44aJLIWS_X9sc",
+  authDomain: "moodydemo-b85a3.firebaseapp.com",
+  projectId: "moodydemo-b85a3",
+  storageBucket: "moodydemo-b85a3.appspot.com",
+  messagingSenderId: "22123657578",
+  appId: "1:22123657578:web:d9bc0adc3084fe0ad98d13",
+  measurementId: "G-KEDS96Q3KM"
+};
 
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
