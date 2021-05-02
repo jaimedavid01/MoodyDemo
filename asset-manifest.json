@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Moody/static/css/main.6d1a28ab.chunk.css",
+    "main.js": "/Moody/static/js/main.b16cabc5.chunk.js",
+    "main.js.map": "/Moody/static/js/main.b16cabc5.chunk.js.map",
+    "runtime-main.js": "/Moody/static/js/runtime-main.707439f2.js",
+    "runtime-main.js.map": "/Moody/static/js/runtime-main.707439f2.js.map",
+    "static/js/2.6667f742.chunk.js": "/Moody/static/js/2.6667f742.chunk.js",
+    "static/js/2.6667f742.chunk.js.map": "/Moody/static/js/2.6667f742.chunk.js.map",
+    "static/js/3.46c60bd0.chunk.js": "/Moody/static/js/3.46c60bd0.chunk.js",
+    "static/js/3.46c60bd0.chunk.js.map": "/Moody/static/js/3.46c60bd0.chunk.js.map",
+    "index.html": "/Moody/index.html",
+    "static/css/main.6d1a28ab.chunk.css.map": "/Moody/static/css/main.6d1a28ab.chunk.css.map",
+    "static/js/2.6667f742.chunk.js.LICENSE.txt": "/Moody/static/js/2.6667f742.chunk.js.LICENSE.txt",
+    "static/media/Moody2png.b6be172b.png": "/Moody/static/media/Moody2png.b6be172b.png",
+    "static/media/MoodyFinallogo.cb52ec6e.png": "/Moody/static/media/MoodyFinallogo.cb52ec6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.707439f2.js",
+    "static/js/2.6667f742.chunk.js",
+    "static/css/main.6d1a28ab.chunk.css",
+    "static/js/main.b16cabc5.chunk.js"
+  ]
+}
