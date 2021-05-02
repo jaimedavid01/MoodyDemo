@@ -36,8 +36,8 @@ min-width: 100px;
 
 .chat__body {
     flex: 1;
-    background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
-    background-repeat: repeat;
+    background-image: url("https://raw.githubusercontent.com/jaimedavid01/MoodyDemo/main/src/img/bg.jpg");
+    background-repeat: repeat-x;
     background-position: center;
     padding: 30px;
     overflow: scroll;
@@ -177,7 +177,7 @@ margin-bottom: 40px;
 }
 .angry {
     background-color: #800000;
-    color: grey;
+    color: lightgrey;
     box-shadow: 3px 3px 3px #8f8f8f;
     padding-left: 20px;
     padding-right: 20px
@@ -203,7 +203,7 @@ margin-bottom: 40px;
     padding-left: 20px;
     padding-right: 20px
 }
-.playful {
+.excited {
     background-color: rgb(255, 253, 125);
     color: orange;
     box-shadow: 3px 3px 3px #8f8f8f;
